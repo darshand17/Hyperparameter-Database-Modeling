@@ -1,0 +1,22 @@
+{
+    "start_time": 1555890372.5149949,
+    "target": "T_degC",
+    "server_path": "/content/p7TZ8WufJ",
+    "data_path": null,
+    "test_path": null,
+    "max_models": 9,
+    "run_time": 700,
+    "run_id": "qlXRazR12",
+    "scale": false,
+    "classification": false,
+    "model_path": null,
+    "balance": false,
+    "balance_threshold": 0.2,
+    "project": null,
+    "end_time": 1555890372.5149999,
+    "execution_time": 0.0,
+    "run_path": "/content/p7TZ8WufJ/qlXRazR12",
+    "nthreads": 1,
+    "min_mem_size": 6,
+    "analysis": 0
+}
