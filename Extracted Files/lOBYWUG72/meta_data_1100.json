@@ -1,0 +1,22 @@
+{
+    "start_time": 1555892362.6636498,
+    "target": "T_degC",
+    "server_path": "/content/p7TZ8WufJ/qlXRazR12/58erhH7N2",
+    "data_path": null,
+    "test_path": null,
+    "max_models": 9,
+    "run_time": 1100,
+    "run_id": "lOBYWUG72",
+    "scale": false,
+    "classification": false,
+    "model_path": null,
+    "balance": false,
+    "balance_threshold": 0.2,
+    "project": null,
+    "end_time": 1555892362.6636534,
+    "execution_time": 0.0,
+    "run_path": "/content/p7TZ8WufJ/qlXRazR12/58erhH7N2/lOBYWUG72",
+    "nthreads": 1,
+    "min_mem_size": 6,
+    "analysis": 0
+}
