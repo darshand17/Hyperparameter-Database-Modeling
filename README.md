@@ -1,6 +1,6 @@
 # INTRODUCTION -
 
-The hyperparameter database is a public resource with algorithms, tools, and data that allows users to visualize and understand how to choose hyperparameters that maximize the predictive power of their models. Think of it as a database for a website which suggests users the best hyperparameters and their values to increase the predictive power of statistical models. Users can search for specific models and their hyperparameters related to their datasets and compare them by their measures like rmse and accuracy. For the ease of search for the users we used sentimental analysis by tokenizing the description of the dataset and generating tags out of it.
+The hyperparameter database is a public resource with algorithms, tools, and data that allows users to visualize and understand how to choose hyperparameters that maximize the predictive power of their models. Think of it as a database for a website which suggests users the best hyperparameters and their values to increase the predictive power of statistical models. Users can search for specific models and their hyperparameters related to their datasets and compare them by their measures like rmse and accuracy. For the ease of search for the users we used language processing by tokenizing the description of the dataset and generating tags out of it.
 
 # Goal -
 
